@@ -25,5 +25,38 @@
 
 # List
 
+import random
 listy = ["apple", "banana", "cherry", "date"]
-print
+print(listy)
+
+# using random library to print the above items with random strings
+for i in listy:
+    print(i + random.choice([" is mine", " is small", " is big", " is sweet", " is sour"]))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
