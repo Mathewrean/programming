@@ -23,21 +23,21 @@
 
 
 
-# List
+# # List
 
-import random
+# import random
+# listy = ["apple", "banana", "cherry", "date"]
+# print(listy)
+
+# # using random library to print the above items with random strings
+# for i in listy:
+#     print(i + random.choice([" is mine", " is small", " is big", " is sweet", " is sour"]))
+
+
 listy = ["apple", "banana", "cherry", "date"]
-print(listy)
-
-# using random library to print the above items with random strings
-for i in listy:
-    print(i + random.choice([" is mine", " is small", " is big", " is sweet", " is sour"]))
-
-
-
-
-
-
+joined_string = ", ".join(listy)
+print(joined_string)
+print(listy[1:])
 
 
 
