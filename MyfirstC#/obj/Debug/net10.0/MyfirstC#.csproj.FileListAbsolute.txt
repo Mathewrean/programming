@@ -1,0 +1,15 @@
+/home/mathewrean/Desktop/programming/MyfirstC#/bin/Debug/net10.0/MyfirstC#
+/home/mathewrean/Desktop/programming/MyfirstC#/bin/Debug/net10.0/MyfirstC#.deps.json
+/home/mathewrean/Desktop/programming/MyfirstC#/bin/Debug/net10.0/MyfirstC#.runtimeconfig.json
+/home/mathewrean/Desktop/programming/MyfirstC#/bin/Debug/net10.0/MyfirstC#.dll
+/home/mathewrean/Desktop/programming/MyfirstC#/bin/Debug/net10.0/MyfirstC#.pdb
+/home/mathewrean/Desktop/programming/MyfirstC#/obj/Debug/net10.0/MyfirstC#.GeneratedMSBuildEditorConfig.editorconfig
+/home/mathewrean/Desktop/programming/MyfirstC#/obj/Debug/net10.0/MyfirstC#.AssemblyInfoInputs.cache
+/home/mathewrean/Desktop/programming/MyfirstC#/obj/Debug/net10.0/MyfirstC#.AssemblyInfo.cs
+/home/mathewrean/Desktop/programming/MyfirstC#/obj/Debug/net10.0/MyfirstC#.csproj.CoreCompileInputs.cache
+/home/mathewrean/Desktop/programming/MyfirstC#/obj/Debug/net10.0/MyfirstC#.sourcelink.json
+/home/mathewrean/Desktop/programming/MyfirstC#/obj/Debug/net10.0/MyfirstC#.dll
+/home/mathewrean/Desktop/programming/MyfirstC#/obj/Debug/net10.0/refint/MyfirstC#.dll
+/home/mathewrean/Desktop/programming/MyfirstC#/obj/Debug/net10.0/MyfirstC#.pdb
+/home/mathewrean/Desktop/programming/MyfirstC#/obj/Debug/net10.0/MyfirstC#.genruntimeconfig.cache
+/home/mathewrean/Desktop/programming/MyfirstC#/obj/Debug/net10.0/ref/MyfirstC#.dll
