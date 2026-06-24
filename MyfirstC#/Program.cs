@@ -62,7 +62,19 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("We resume maths if any exis....");
-        
+        // Console.WriteLine("Generating invoices for customer \"Contoso Corp\" ...");
+        // Console.WriteLine("Invoice: 1021\t\tComplete!");
+        // Console.WriteLine("Invoice: 1022\t\tComplete!\n");
+        // Console.WriteLine("Output Directorry\t\tc:\\invoices");
+
+
+        string dir_name = "ACME";
+        Console.WriteLine($@"View English output:
+        c:\\Exercise\{dir_name}\\ru-RU\data.txt");
+
     }
 }
+
+
+
+
