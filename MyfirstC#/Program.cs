@@ -5,7 +5,11 @@ class Program
     static void Main()
     {
         Console.WriteLine("Employee Card!");
-
+// The data
+/*
+Epmloyee`s details
+on the card
+*/
         String name = "James";
         int age = 45;
         float weight = 76.33f;
